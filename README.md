@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Nur%20Canbay&fontColor=ffffff&fontSize=32" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Canbay&fontColor=ffffff&fontSize=32" />
 </p>
 
 <h3 align="center">Technical Analyst — Documentation, BA & Testing</h3>
