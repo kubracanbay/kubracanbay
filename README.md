@@ -45,6 +45,3 @@ Jira • Confluence • Archbee • GitHub • SQL • Figma • Draw.io • Tre
 ### 📝 About Me
 I enjoy turning complex technical structures into **clear, organized, and user-friendly documentation**.  
 I’m currently expanding my skills in **Business Analysis** while staying active in **cybersecurity-oriented documentation and testing**.
-
-
-<
