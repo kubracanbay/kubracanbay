@@ -50,3 +50,10 @@ Jira · Confluence · Archbee · GitHub · SQL · Figma · Draw.io · Excalidraw
 <p align="center">
   <sub>Focused on clear documentation, structured analysis, and consistent testing practices.</sub>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/topic-PAM-blue" />
+  <img src="https://img.shields.io/budge/topic-Zero--Trust-orange" />
+  <img src="https://img.shields.io/badge/topic-MFA-green" />
+  <img src="https://img.shields.io/badge/topic-SIEM-yellow" />
+</p>
