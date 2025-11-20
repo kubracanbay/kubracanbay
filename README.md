@@ -1,48 +1,52 @@
-# 👋 Hi, 
-# I'm Kübra 
-### **Technical Analyst — Documentation, BA & Testing**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Nur%20Canbay&fontColor=ffffff&fontSize=32" />
+</p>
 
-I work at the intersection of **technical writing, business analysis, and software testing**, creating clear documentation, structured processes, and reliable test scenarios for enterprise software products. My background is strongly shaped by cybersecurity platforms (PAM & SIEM), product documentation, release management, and cross-team collaboration.
-
----
-
-## 🔧 Skills & Expertise
-- **Technical Writing** – User guides, admin guides, how-to documentation, release notes  
-- **Business Analysis** – BRD, BPMN, workflow modelling, user stories, acceptance criteria, SQL basics  
-- **Software Testing** – Manual testing, regression testing, test planning, Jira-based test cycles  
-- **Cybersecurity** – PAM concepts, audit reporting flows, SIEM basics  
-- **Cloud** – AWS Cloud Practitioner (in progress)
+<h3 align="center">Technical Analyst — Documentation, BA & Testing</h3>
 
 ---
 
-## 🛠 Tools I Use
-Jira • Confluence • Archbee • GitHub • SQL • Figma • Draw.io • Trello
+## About Me
+I work across **technical writing**, **business analysis**, and **software testing**.  
+My experience includes enterprise documentation, workflow modelling, test design, and cybersecurity-oriented product knowledge (PAM & SIEM). I focus on creating clear structures, accurate documents, and reliable processes.
 
 ---
 
-## 📌 Featured Projects
+## Skills
+- 📝 **Technical Writing** — User Guides, Admin Guides, Release Notes  
+- 📊 **Business Analysis** — BRD, BPMN, User Stories, Acceptance Criteria, SQL Basics  
+- 🧪 **Software Testing** — Manual & Regression Testing, Test Planning, Jira Test Cycles  
+- 🔐 **Cybersecurity Foundations** — PAM Concepts, Audit Flows, SIEM Basics  
+- ☁️ **Cloud** — AWS Cloud Practitioner (in progress)
+
+---
+
+## Tools
+Jira · Confluence · Archbee · GitHub · SQL · Figma · Draw.io · Excalidraw · Trello
+
+---
+
+## Featured Work
 - **Business Analysis Portfolio**  
-  BRD examples, BPMN diagrams, use cases, SQL queries, user stories.
+  A collection of BRDs, BPMN diagrams, user stories, SQL samples and workflow models.
 
-- **Resume**  
-  My professional CV with technical writing, BA, and QA background.
-  ### 📄 My Resume  
-  **Download:** [Kübra Nur Canbay – CV (PDF)](https://github.com/kubracanbay/resume/blob/main/Kubra_Nur_Canbay_CV.pdf)
+- **Resume (CV)**  
+  👉 [Download My CV (PDF)](https://github.com/kubracanbay/resume/blob/main/Kubra_Nur_Canbay_CV.pdf)
 
-- **Technical Writing Portfolio** *(coming soon)*  
-  A collection of guides, admin documentation samples, how-to articles, and structured templates.
+- **Technical Writing Portfolio** *(planned)*  
+  Documentation templates, structured examples and guide drafts.
 
-- **PAM Authentication Flow** *(coming soon)*  
-  A conceptual cybersecurity workflow demonstrating MFA, session handling, and audit reporting.
+- **PAM Authentication Flow** *(planned)*  
+  MFA → Session Handling → Audit Reporting (conceptual workflow).
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/kubracanbay  
-- (Optional) **Email:** kubranurcanbay@gmail.com
+## Contact
+**LinkedIn:** https://www.linkedin.com/in/kubracanbay  
+**Email:** [kubranurcanbay@gmail.com](mailto:kubranurcanbay@gmail.com)
 
 ---
 
-### 📝 About Me
-I enjoy turning complex technical structures into **clear, organized, and user-friendly documentation**.  
-I’m currently expanding my skills in **Business Analysis** while staying active in **cybersecurity-oriented documentation and testing**.
+<p align="center">
+  <sub>Focused on clear documentation, structured analysis, and consistent testing practices.</sub>
+</p>
