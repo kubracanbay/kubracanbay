@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Kübra 
+# 👋 Hi, 
+I'm Kübra 
 ### **Technical Analyst — Documentation, BA & Testing**
 
 I work at the intersection of **technical writing, business analysis, and software testing**, creating clear documentation, structured processes, and reliable test scenarios for enterprise software products. My background is strongly shaped by cybersecurity platforms (PAM & SIEM), product documentation, release management, and cross-team collaboration.
