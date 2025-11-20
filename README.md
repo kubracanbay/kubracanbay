@@ -11,6 +11,18 @@ I work across **technical writing**, **business analysis**, and **software testi
 My experience includes enterprise documentation, workflow modelling, test design, and cybersecurity-oriented product knowledge (PAM & SIEM). I focus on creating clear structures, accurate documents, and reliable processes.
 
 ---
+### 🧩 Topics I Work On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PAM-Privileged%20Access%20Management-0a66c2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZERO%20TRUST-Architecture-4caf50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MFA-Identity%20Security-f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FIDO2-Phishing%20Resistant-f4b400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-Threat%20Detection-d32f2f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESEARCH-Cybersecurity-9c27b0?style=for-the-badge" />
+</p>
+
+---
 
 ## Skills
 - 📝 **Technical Writing** — User Guides, Admin Guides, Release Notes  
@@ -51,9 +63,3 @@ Jira · Confluence · Archbee · GitHub · SQL · Figma · Draw.io · Excalidraw
   <sub>Focused on clear documentation, structured analysis, and consistent testing practices.</sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/topic-PAM-blue" />
-  <img src="https://img.shields.io/budge/topic-Zero--Trust-orange" />
-  <img src="https://img.shields.io/badge/topic-MFA-green" />
-  <img src="https://img.shields.io/badge/topic-SIEM-yellow" />
-</p>
