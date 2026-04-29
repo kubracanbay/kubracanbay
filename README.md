@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Canbay&fontColor=ffffff&fontSize=32" />
 </p>
 
-<h3 align="center">Technical Analyst — Documentation, BA & Testing</h3>
+<h3 align="center">Technical Platform Owner — Cloud Solutions, Leadership & Security</h3>
 
 ---
 
