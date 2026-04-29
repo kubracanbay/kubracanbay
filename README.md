@@ -7,51 +7,44 @@
 ---
 
 ## About Me
-I work across **technical writing**, **business analysis**, and **software testing**.  
-My experience includes enterprise documentation, workflow modelling, test design, and cybersecurity-oriented product knowledge (PAM & SIEM). I focus on creating clear structures, accurate documents, and reliable processes.
+As a **Technical Platform Owner @ Magicorn** (an AWS Partner), I bridge the gap between technical complexity and business strategy. I lead cloud-native projects, managing the lifecycle from discovery to delivery while facilitating seamless communication between clients and engineering teams. My focus is on scaling platforms with a "security-first" mindset.
 
 ---
 ### 🧩 Topics I Work On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PAM-Privileged%20Access%20Management-0a66c2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ZERO%20TRUST-Architecture-4caf50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MFA-Identity%20Security-f39c12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FIDO2-Phishing%20Resistant-f4b400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIEM-Threat%20Detection-d32f2f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RESEARCH-Cybersecurity-9c27b0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-PARTNER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLATFORM-OWNERSHIP-0a66c2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLOUD-ARCHITECTURE-4caf50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEADERSHIP-PROJECTS-f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-THREAT%20DETECTION-d32f2f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PAM-ZERO%20TRUST-9c27b0?style=for-the-badge" />
 </p>
 
 ---
 
 ## Skills
-- 📝 **Technical Writing** — User Guides, Admin Guides, Release Notes  
-- 📊 **Business Analysis** — BRD, BPMN, User Stories, Acceptance Criteria, SQL Basics  
-- 🧪 **Software Testing** — Manual & Regression Testing, Test Planning, Jira Test Cycles  
-- 🔐 **Cybersecurity Foundations** — PAM Concepts, Audit Flows, SIEM Basics  
-- ☁️ **Cloud** — AWS Cloud Practitioner (in progress)
+- 🚀 **Platform Leadership** — Project Leading, Roadmap Management, Stakeholder Communication
+- ☁️ **Cloud Expertise** — AWS Infrastructure, Cloud Solution Architecture (Partner Level)
+- 📊 **Business Analysis** — Strategic Planning, Workflow Modeling (BPMN), BRD & User Stories
+- 🔐 **Cybersecurity** — Identity Security (PAM, MFA, FIDO2), SIEM & Threat Detection
+- 📝 **Technical Excellence** — Enterprise Documentation, System Archiving, Quality Assurance
 
 ---
+
 
 ## Tools
-Jira · Confluence · Archbee · GitHub · SQL · Figma · Draw.io · Excalidraw · Trello
+AWS Console · Jira · Confluence · GitHub · SQL · Draw.io · Archbee · 
+---
+
+**Cloud Project Management** Leading end-to-end cloud transformation projects and managing AWS-based platform roadmaps.
+
+- **Technical Communication Bridge** Translating high-level client requirements into technical execution plans for development teams.
+
+- **Platform Documentation Architecture** Structured technical guides and internal knowledge bases for cloud-native solutions.
 
 ---
 
-## Featured Work
-- **Business Analysis Portfolio**  
-  A collection of BRDs, BPMN diagrams, user stories, SQL samples and workflow models.
-
-- **Resume (CV)**  
-  👉 [Download My CV (PDF)](https://github.com/kubracanbay/resume/blob/main/Kubra_Nur_Canbay_CV.pdf)
-
-- **Technical Writing Portfolio** *(planned)*  
-  Documentation templates, structured examples and guide drafts.
-
-- **PAM Authentication Flow** *(planned)*  
-  MFA → Session Handling → Audit Reporting (conceptual workflow).
-
----
 
 ## Contact
 **LinkedIn:** https://www.linkedin.com/in/kubracanbay  
@@ -60,6 +53,6 @@ Jira · Confluence · Archbee · GitHub · SQL · Figma · Draw.io · Excalidraw
 ---
 
 <p align="center">
-  <sub>Focused on clear documentation, structured analysis, and consistent testing practices.</sub>
+  <sub>Focused on bridging technical gaps, leading cloud initiatives, and building secure, scalable platform architectures.</sub>
 </p>
 
