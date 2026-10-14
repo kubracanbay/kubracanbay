@@ -1,45 +1,58 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Canbay&fontColor=ffffff&fontSize=32" />
+</p>
 
-![Kübra Canbay](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0A6BFF&height=170&section=header&text=K%C3%BCbra%20Canbay&fontSize=44&fontColor=ffffff&fontAlignY=40)
-
-</div>
-
-### Theorem
-
-$$\text{Mathematics} \cap \text{Security} \cap \text{Cloud} \neq \varnothing$$
-
-**Proof.** Take a mathematician who also writes, and train her to look for structure. Move her into cybersecurity, where she learns to look for what breaks, and for who holds the keys. Then make her a Technical Platform Owner at [Magicorn](https://github.com/magicorntech), an AWS Partner, leading cloud platforms from discovery to delivery with security first. She now belongs to all three sets, so the intersection is not empty. ∎
-
-**Corollary.** If I understand something, I can write it down plainly. Most days I use the contrapositive.
+<h3 align="center">Technical Platform Owner — Cloud Solutions, Leadership & Security</h3>
 
 ---
 
-### Open problems
+## About Me
+As a **Technical Platform Owner @ Magicorn** (an AWS Partner), I bridge the gap between technical complexity and business strategy. I lead cloud-native projects, managing the lifecycle from discovery to delivery while facilitating seamless communication between clients and engineering teams. My focus is on scaling platforms with a "security-first" mindset.
 
-**Problem 1.** Can cryptography be explained from first principles, in plain words? RSA, Diffie–Hellman and elliptic curves, built up from the mathematics.
+---
+### 🧩 Topics I Work On
 
-**Problem 2.** Why do two 99.9% services in a row give you only 99.8%? The quiet arithmetic behind availability, redundancy and cost.
-
-**Problem 3.** Is an access policy just a set? Reading AWS IAM through set theory and logic.
-
-**Problem 4.** What does it take to trust nothing by default? Zero Trust and privileged access in the cloud.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-PARTNER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLATFORM-OWNERSHIP-0a66c2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLOUD-ARCHITECTURE-4caf50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEADERSHIP-PROJECTS-f39c12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM-THREAT%20DETECTION-d32f2f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PAM-ZERO%20TRUST-9c27b0?style=for-the-badge" />
+</p>
 
 ---
 
-### Selected work
-
-- **[pam-research-portfolio](https://github.com/kubracanbay/pam-research-portfolio)**: research notes and conceptual models on Privileged Access Management.
-- **[business-analysis-portfolio](https://github.com/kubracanbay/business-analysis-portfolio)**: sample analysis documents and workflow models.
-
-### Writing
-
-Essays on the problems above. The first one is forthcoming.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Skills
+- 🚀 **Platform Leadership** — Project Leading, Roadmap Management, Stakeholder Communication
+- ☁️ **Cloud Expertise** — AWS Infrastructure, Cloud Solution Architecture (Partner Level)
+- 📊 **Business Analysis** — Strategic Planning, Workflow Modeling (BPMN), BRD & User Stories
+- 🔐 **Cybersecurity** — Identity Security (PAM, MFA, FIDO2), SIEM & Threat Detection
+- 📝 **Technical Excellence** — Enterprise Documentation, System Archiving, Quality Assurance
 
 ---
 
-### Correspondence
 
-Write to me at [kubranurcanbay@gmail.com](mailto:kubranurcanbay@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/kubranurcanbay/) and [Instagram](https://www.instagram.com/okuranalist/).
+## Tools
+AWS Console · Jira · Confluence · GitHub · SQL · Draw.io · Archbee · 
+---
+
+**Cloud Project Management** Leading end-to-end cloud transformation projects and managing AWS-based platform roadmaps.
+
+- **Technical Communication Bridge** Translating high-level client requirements into technical execution plans for development teams.
+
+- **Platform Documentation Architecture** Structured technical guides and internal knowledge bases for cloud-native solutions.
+
+---
+
+
+## Contact
+**LinkedIn:** https://www.linkedin.com/in/kubracanbay  
+**Email:** [kubranurcanbay@gmail.com](mailto:kubranurcanbay@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Focused on bridging technical gaps, leading cloud initiatives, and building secure, scalable platform architectures.</sub>
+</p>
+
