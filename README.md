@@ -8,7 +8,7 @@ $\text{Mathematics} \cap \text{Security} \cap \text{Cloud} \neq \varnothing$
 
 I'm a mathematician working on cloud platforms and security. I hold a master's degree in mathematics, with a thesis on applications of graph theory to artificial intelligence. I've spent my career making complex technical systems clear: first by documenting them, now by delivering them.
 
-- Technical Platform Owner at **Magicorn**, an AWS Partner, reporting directly to the CTO and working across a portfolio of around 25 clients
+- Technical Platform Owner at **[Magicorn](https://magicorn.co)**, an AWS Partner, reporting directly to the CTO and working across a portfolio of around 25 clients
 - Previously **3.5 years at [Kron Technologies](https://krontech.com)** as a Technical Writer, reporting directly to the Product Lead
 - Research interests: privileged access management, adaptive authentication, SIEM/PAM integration, and graph theory in AI
 
