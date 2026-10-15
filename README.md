@@ -1,58 +1,40 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A6BFF&height=80&section=header&text=Kübra%20Canbay&fontColor=ffffff&fontSize=32" />
-</p>
+# Kübra Nur Canbay
 
-<h3 align="center">Technical Platform Owner — Cloud Solutions, Leadership & Security</h3>
+**Technical Platform Owner at [Magicorn](https://github.com/magicorntech)**
 
----
+$\text{Mathematics} \cap \text{Security} \cap \text{Cloud} \neq \varnothing$
 
-## About Me
-As a **Technical Platform Owner @ Magicorn** (an AWS Partner), I bridge the gap between technical complexity and business strategy. I lead cloud-native projects, managing the lifecycle from discovery to delivery while facilitating seamless communication between clients and engineering teams. My focus is on scaling platforms with a "security-first" mindset.
+[Magicorn](https://github.com/magicorntech) · [LinkedIn](https://www.linkedin.com/in/kubranurcanbay/) · [ORCID](https://orcid.org/0000-0002-3608-4483)
 
----
-### 🧩 Topics I Work On
+I'm a mathematician working on cloud platforms and security. I hold a master's degree in mathematics, with a thesis on applications of graph theory to artificial intelligence. I've spent my career making complex technical systems clear: first by documenting them, now by delivering them.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-PARTNER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLATFORM-OWNERSHIP-0a66c2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLOUD-ARCHITECTURE-4caf50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEADERSHIP-PROJECTS-f39c12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIEM-THREAT%20DETECTION-d32f2f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PAM-ZERO%20TRUST-9c27b0?style=for-the-badge" />
-</p>
+- Technical Platform Owner at **Magicorn**, an AWS Partner, reporting directly to the CTO and working across a portfolio of around 25 clients
+- Previously **3.5 years at [Kron Technologies](https://krontech.com)** as a Technical Writer, reporting directly to the Product Lead
+- Research interests: privileged access management, adaptive authentication, SIEM/PAM integration, and graph theory in AI
 
----
+## Selected work
 
-## Skills
-- 🚀 **Platform Leadership** — Project Leading, Roadmap Management, Stakeholder Communication
-- ☁️ **Cloud Expertise** — AWS Infrastructure, Cloud Solution Architecture (Partner Level)
-- 📊 **Business Analysis** — Strategic Planning, Workflow Modeling (BPMN), BRD & User Stories
-- 🔐 **Cybersecurity** — Identity Security (PAM, MFA, FIDO2), SIEM & Threat Detection
-- 📝 **Technical Excellence** — Enterprise Documentation, System Archiving, Quality Assurance
+| Project | What it covers |
+| --- | --- |
+| [PAM Research Portfolio](https://github.com/kubracanbay/pam-research-portfolio) | Research notes, analysis and conceptual models on privileged access management |
+| [Business Analysis Portfolio](https://github.com/kubracanbay/business-analysis-portfolio) | Sample business analysis documents and workflow models |
 
----
+## Focus areas
 
+- **Cloud platforms:** AWS infrastructure, solution architecture, platform roadmaps and client delivery
+- **Security:** privileged access management, MFA and adaptive authentication, SIEM/PAM integration, Zero Trust
+- **Mathematics and AI:** graph theory and its applications to artificial intelligence
+- **Technical writing:** product documentation, knowledge bases and technical guides
 
-## Tools
-AWS Console · Jira · Confluence · GitHub · SQL · Draw.io · Archbee · 
----
+## Research
 
-**Cloud Project Management** Leading end-to-end cloud transformation projects and managing AWS-based platform roadmaps.
+- [Graf teorisinin yapay zekâ üzerine uygulamaları](https://tez.yok.gov.tr/UlusalTezMerkezi/tarama.jsp) (Application of Graph Theory on Artificial Intelligence), M.Sc. thesis, Gazi University, 2024, thesis no. 860619
+- [Advanced MFA Approaches in PAM Products](https://doi.org/10.5281/zenodo.15762188), book chapter, 2025
+- [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf), conference abstract, 2025
+- [The Role of SIEM and PAM Integration in Strengthening Cybersecurity](https://www.blackseacountries.org/_files/ugd/614b1f_8d4c8e5c91964d92a1fe6e9731c2fc25.pdf), conference abstract, 2025
 
-- **Technical Communication Bridge** Translating high-level client requirements into technical execution plans for development teams.
+## Beyond work
 
-- **Platform Documentation Architecture** Structured technical guides and internal knowledge bases for cloud-native solutions.
+I read, write and travel. I wrote a children's book in English, [Iboris and Kuboris: The Gift](https://www.amazon.com/dp/B0G4NNXYX7), and I write essays on science and society in Turkish for [Gelecek Bilimde](https://gelecekbilimde.net/yazar/kubra-nur-canbay/). I share what I read on Instagram as [@okuranalist](https://www.instagram.com/okuranalist/).
 
----
-
-
-## Contact
-**LinkedIn:** https://www.linkedin.com/in/kubracanbay  
-**Email:** [kubranurcanbay@gmail.com](mailto:kubranurcanbay@gmail.com)
-
----
-
-<p align="center">
-  <sub>Focused on bridging technical gaps, leading cloud initiatives, and building secure, scalable platform architectures.</sub>
-</p>
-
+For collaboration, reach me on [LinkedIn](https://www.linkedin.com/in/kubranurcanbay/) or by [email](mailto:kubranurcanbay@gmail.com).
